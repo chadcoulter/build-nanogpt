@@ -1,0 +1,13 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+SPDX-License-Identifier: AGPL-3.0-only
+
+Copyright (c) 2026 Chad Coulter
+
+Chad Coulter's additions and the combined distribution of this repository are licensed under the GNU Affero General Public License, version 3 (AGPL-3.0-only), except where otherwise noted.
+
+The complete AGPL-3.0 terms are published by the Free Software Foundation at:
+https://www.gnu.org/licenses/agpl-3.0.html
+
+This repository is derived from Andrej Karpathy's build-nanogpt project, whose upstream code was distributed under the MIT License. The original MIT rights and notices for upstream-derived material are preserved in THIRD_PARTY_LICENSES.md. Nothing in this AGPL notice removes rights granted under the MIT License to the upstream material.
